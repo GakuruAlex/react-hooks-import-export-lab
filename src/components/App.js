@@ -7,7 +7,7 @@ import About from "./About";
 function App() {
   return (
     <div>
-      <NavBar />
+       <NavBar />
       <Home />
       <About />
     </div>
